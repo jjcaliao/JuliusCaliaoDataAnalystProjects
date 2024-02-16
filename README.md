@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Data Analyst || Previous Web developer
 -----------------------------------------------
 
-A Creative Computing graduate with a passion for technology and data analysis. Having worked in different industries, such as Customer Service and Web Development, I have been able to demonstrate and develop skills such as problem solving, adaptability, and communication. Completed an intensive 12-week digital skills Bootcamp in Data Technology with JustIT Training. Looking to reinforce my technological skills further to become a data analyst by learning new data tools and working on several projects to develop my portfolio. I am now looking to secure a role as a Junior Data Analyst and connect with like-minded individuals to grow together during my crucial years of development.
+A Creative Computing graduate with a passion for technology and data analysis. Having worked in different industries, such as Customer Service and Web Development, I have been able to demonstrate and develop skills such as problem solving, adaptability, and communication. 
+
+Completed an intensive 12-week digital skills Bootcamp in Data Technology with JustIT Training. Looking to reinforce my technological skills further to become a data analyst by learning new data tools and working on several projects to develop my portfolio. 
+
+I am now looking to secure a role as a Junior Data Analyst and connect with like-minded individuals to grow together during my crucial years of development.
 
 *   🌍  I'm based in London
 *   🖥️  See my portfolio at [here](http://sites.google.com/view/juliuscaliao/home)
